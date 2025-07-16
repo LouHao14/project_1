@@ -2,6 +2,8 @@
 #include <typeinfo>
 #include <iomanip>
 
+//这是用vscode同步远程仓库的一次测试
+
 int main() {
     std::cout << std::fixed << std::setprecision(10);
     
